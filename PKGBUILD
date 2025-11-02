@@ -6,7 +6,7 @@ arch=('any')
 url="https://github.com/aeotag/gh-colorize"
 license=('MIT')
 depends=()
-source=("logmsg.sh")
+source=("usr/bin/logmsg.sh")
 md5sums=('SKIP')
 
 package() {
