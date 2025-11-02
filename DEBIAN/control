@@ -1,0 +1,7 @@
+Package: logmsg
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Yannic <yannic-pauli@gmx.de>
+Description: Universal colorized logging tool for shell/systemd, with Bash and Fish aliases

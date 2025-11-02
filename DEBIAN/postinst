@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+
+# Ensure correct permissions
+chmod 755 /etc/profile.d/logmsg-alias.sh || true
+if [ -d /etc/fish/conf.d ]; then
+  chmod 755 /etc/fish/conf.d/logmsg-alias.fish || true
+fi
+
+exit 0
