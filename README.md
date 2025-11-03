@@ -15,13 +15,13 @@
 
 Debian/Ubuntu:
 
-sudo dpkg -i logmsg-1.0_all.deb
+sudo dpkg -i logmsg.deb
 
 text
 
 Arch Linux:
 
-sudo pacman -U logmsg-1.0-1-any.pkg.tar.zst
+sudo pacman -U logmsg.pkg.tar.zst
 
 text
 
@@ -62,13 +62,13 @@ MIT
 
 Debian/Ubuntu:
 
-sudo dpkg -i logmsg-1.0_all.deb
+sudo dpkg -i logmsg.deb
 
 text
 
 Arch Linux:
 
-sudo pacman -U logmsg-1.0-1-any.pkg.tar.zst
+sudo pacman -U logmsg.pkg.tar.zst
 
 text
 
